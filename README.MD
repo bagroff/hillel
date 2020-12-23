@@ -3,3 +3,5 @@ https://docs.google.com/spreadsheets/d/16GCLydNfsICVcfv4KelEgCk3pI0SaSaoPV0THbBE
 ringcentral.com
 
 app.glip.com
+
+app.ringcentral.com
