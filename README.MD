@@ -7,4 +7,4 @@ app.ringcentral.com
 
 flip2glip
 
-test GitHub pause
+test GitHub unpause
