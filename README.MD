@@ -13,3 +13,4 @@ version 21.2
 commit 123
 123
 git commit
+pause git
