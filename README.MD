@@ -14,3 +14,4 @@ commit 123
 123
 git commit
 pause git
+git unpaused
