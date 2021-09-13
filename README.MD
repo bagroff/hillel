@@ -21,4 +21,4 @@ glp glp glp commit
 PDX01 Reg02
 
 PDX01 region2
-STG-AWS-GITHUB 2.0111
+STG-AWS-GITHUB 2.0111 1111
