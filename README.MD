@@ -23,5 +23,5 @@ PDX01 Reg02
 PDX01 region2
 STG-AWS-GITHUB 2.0111 1111
 glp commit111222
-glip commit 180921 111 222 333
+glip commit 180921 111 222 333 444
  
