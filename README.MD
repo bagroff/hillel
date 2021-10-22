@@ -25,3 +25,5 @@ STG-AWS-GITHUB 2.0111 1111
 glp commit111222
 glip commit 180921 111 222 333 444
  sunset glip111222
+
+github 2.0 check 
