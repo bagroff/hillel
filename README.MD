@@ -30,3 +30,4 @@ github 2.0 check
 another commit
 commit github 2.0 upd
 Git Hub FRA 04 commit
+Git Hub FRA 04 commit  /pause
