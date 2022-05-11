@@ -37,3 +37,4 @@ Git Hub FRA 04 commit  /unpause
 ATOS github commit
 ATOS pause
 ATOS github commit unpaused
+ATOS delete
