@@ -60,3 +60,4 @@ GIT COMMIT ATOS
 
 commit glp stg aws
 pause glp stg aws
+Unpause glp stg aws 
